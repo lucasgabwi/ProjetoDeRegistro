@@ -10,4 +10,4 @@ CREATE TABLE usuarios (
   senha VARCHAR(255)
 );
 
-Mesmo que dê erro, vai dar certo. Daí terminou.
+Mesmo que dê erro, vai dar certo. Você coloca o seguinte endereço localhost/nome_da_pasta (porém, você muda esse nome_da_pasta para nome da pasta que você baixou ou renomeou). Daí terminou.
