@@ -13,4 +13,7 @@ CREATE TABLE usuarios (
 Mesmo que dê erro, vai dar certo. Você coloca o seguinte endereço localhost/nome_da_pasta (porém, você muda esse nome_da_pasta para nome da pasta que você baixou ou renomeou). Daí terminou.
 
 # Imagens/vídeos do projeto
+Vídeo do projeto:
 ![Vídeo do projeto:](video-projeto.gif)
+Vídeo do banco de dados:
+![Vídeo do banco de dados:](video-banco-de-dados.gif)
