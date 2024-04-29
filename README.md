@@ -20,4 +20,8 @@ Vídeo do banco de dados:
 ![Vídeo do banco de dados:](video-banco-de-dados.gif)
 
 ## Imagens
+Imagem do projeto:
 ![Imagem do projeto:](print-do-projeto.png)
+
+Imagem do banco de dados:
+![Imagem do banco de dados:](banco-de-dados-do-projeto.png)
